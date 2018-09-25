@@ -1,0 +1,2 @@
+email,[a-z]+@[a-z]+\.[a-z]+
+name,[A-Z][a-z]+
